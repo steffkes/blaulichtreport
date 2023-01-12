@@ -6,6 +6,24 @@
       </div>
     </section>
 
+    <div class="notification is-danger mt-6">
+      <p>
+        Sie haben einen Einsatzhinweis für uns? <strong
+          >Stellen sie sich sicher, dass zuerst Erste Hilfe geleistet wird und
+          der Notruf 112 gewählt wurde</strong
+        >.
+      </p>
+
+      <p>
+        Dann
+        <a href="mailto:sofortmeldung@blaulichtreport-suedschwabenallgaeu.de"
+          >schreiben Sie uns eine E-Mail</a
+        >
+        mit folgenden Informationen: Wo ist es passiert? Was ist passiert? Wann
+        ist es passiert?
+      </p>
+    </div>
+
     <div class="card mt-6" v-for="article in articles">
       <div class="card-image">
         <figure
