@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    working_dir: /app
+    command: ["npm", "run", "dev"]
+    volumes:
+      - ./:/app
+    ports:
+      - 127.0.0.1:6800:3000
+    environment:
+      NODE_OPTIONS: "--openssl-legacy-provider"
+
+  web:
+    image: caddy:2.6.2-alpine
+    volumes:
+      - ./dist/:/usr/share/caddy/
+    ports:
+      - 127.0.0.1:6801:80
