@@ -6,7 +6,7 @@
       </div>
     </section>
 
-    <div class="notification is-danger mt-6">
+    <div class="notification is-danger mt-6" style="background-color: #e63946">
       <p>
         Sie haben einen Einsatzhinweis für uns? <strong
           >Stellen sie sich sicher, dass zuerst Erste Hilfe geleistet wird und
