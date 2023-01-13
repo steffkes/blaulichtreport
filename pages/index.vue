@@ -62,6 +62,38 @@
         </div>
       </div>
     </div>
+
+    <footer class="footer mt-6">
+      <div class="content">
+        <p>
+          <strong>Impressum</strong> (gemäß § 5 TMG) und
+          <strong>Verantwortlich für den Inhalt</strong> (gemäß § 55 Abs. 2
+          RStV):<br />
+          Benjamin Liss, Siplingerstr. 34, 87527 Sonthofen, Telefon: 08321 805
+          21 55, E-Mail: info@blaulichtreport-suedschwabenallgaeu.de
+        </p>
+
+        <p class="is-size-7">
+          Haftungsausschluss (Disclaimer) / Haftung für Inhalte: Als
+          Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf
+          diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8
+          bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet,
+          übermittelte oder gespeicherte fremde Informationen zu überwachen oder
+          nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit
+          hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung
+          von Informationen nach den allgemeinen Gesetzen bleiben hiervon
+          unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem
+          Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei
+          Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese
+          Inhalte umgehend entfernen Die durch die Seitenbetreiber erstellten
+          Inhalte und Werke auf diesen Seiten unterliegen dem deutschen
+          Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede
+          Art der Verwendung Streitschlichtung Wir sind nicht bereit oder
+          verpflichtet, an Streitbeilegungsverfahren vor einer
+          Verbraucherschlichtungsstelle teilzunehmen
+        </p>
+      </div>
+    </footer>
   </div>
 </template>
 
